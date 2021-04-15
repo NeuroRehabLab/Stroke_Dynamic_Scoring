@@ -1,4 +1,4 @@
-Supplementary data CSVs contain information on:
+Supplementary data tables contain information on:
 Movement time and accuracy for each trial type and subject, averaged across 15 repetitions
 Waveform comparisons between limbs (R-squared) for shoulder, elbow, and wrist for each trial type and subject, averaged across 15 repetitions
 Peak-to-peak amplitude, and intertrial variance for shoulder, elbow, and wrist for each trial type and subject, averaged across 15 repetitions
